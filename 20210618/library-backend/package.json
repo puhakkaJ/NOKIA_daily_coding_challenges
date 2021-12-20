@@ -1,0 +1,18 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "author": "jenni puhakka",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.1",
+    "graphql": "^15.5.0",
+    "react-select": "^4.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
